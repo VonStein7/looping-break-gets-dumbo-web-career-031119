@@ -10,5 +10,3 @@ def levitation_quiz
 	  end
 	end
 end
-
-
